@@ -21,6 +21,6 @@ The resources kit for Hack4Farming was posted to the aWhere developer's portal, 
 
 ##Media
 
-Twitter coverage of the event can be found at #hack4farming. Previous and subsequent events also use this hashtag.
+Twitter coverage of the event can be found at [#hack4farming](https://twitter.com/hashtag/hack4farming). Previous and subsequent events also use this hashtag.
 
 An AgFunder article about this event can be found [here] (https://agfundernews.com/awhere-host-agtech-hackathon-east-african-innovators-nairobi.html).
