@@ -4,7 +4,7 @@
 
 ##Nairobi, July 29-31, 2016
 
-Projects and resources related to the agriculture/ICT-themed hackathon cohosted by [aWhere](http://www.awhere.com/), [AATF] (http://aatf-africa.org/) and [iHub](http://ihub.co.ke/), and sponsored by the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) under the Hybrid Rice: Breeding by Design project.
+Projects and resources related to the agriculture-themed hackathon cohosted by [aWhere](http://www.awhere.com/), [AATF] (http://aatf-africa.org/) and [iHub](http://ihub.co.ke/), and sponsored by the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) under the Hybrid Rice: Breeding by Design project.
 
 ##team_projects
 
