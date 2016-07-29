@@ -22,7 +22,7 @@ To utilize IOTA software, please view the introductory video on [YouTube] (https
 
 IOTA has created a sandbox so that people can interact with IOTA without having to download any software.  The sandbox is hosted at http://sandbox.iotatoken.com/api. Please visit https://iota.readme.io/v1.0.1/docs for more information and documentation.
 
-
+To join the IOTA slack, visit http://slack.iotatoken.com/
 
 ##Media
 
